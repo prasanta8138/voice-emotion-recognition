@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+models/
+data/
+data_tess/
+data_crema/
+data_savee/
+results/
+*.zip
